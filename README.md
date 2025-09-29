@@ -6,9 +6,9 @@
 
 ### Built with
 
---HTML5 Semantic MarkUp
---CSS3
---SCSS a preprocessor framework for CSS
+HTML5 Semantic MarkUp
+CSS3
+SCSS a preprocessor framework for CSS
 
 ### What I Learned
 
